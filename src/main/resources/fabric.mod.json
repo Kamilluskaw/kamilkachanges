@@ -1,33 +1,33 @@
 {
 	"schemaVersion": 1,
-	"id": "kamilkaadditions",
+	"id": "kamilkachanges",
 	"version": "${version}",
-	"name": "Kamilka's Additions",
-	"description": "Personal preferences regarding Minecraft :3",
+	"name": "Kamilka's Changes",
+	"description": "Silly changes to Minecraft :3",
 	"authors": [
 		"kamilluskaw"
 	],
 	"contact": {
 		"homepage": "https://x.com/kamilluskaw",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/Kamilluskaw/kamilkachanges"
 	},
 	"license": "MIT",
-	"icon": "assets/kamilkaadditions/icon.png",
+	"icon": "assets/kamilkachanges/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"kamilka.additions.Kamilkaadditions"
+			"kamilka.changes.Kamilkachanges"
 		],
 		"fabric-datagen": [
-			"kamilka.additions.KamilkaadditionsDataGenerator"
+			"kamilka.changes.KamilkachangesDataGenerator"
 		],
 		"client": [
-			"kamilka.additions.KamilkaClient"
+			"kamilka.changes.KamilkachangesClient"
 		]
 	},
 
 	"mixins": [
-		"kamilkaadditions.mixins.json"
+		"kamilkachanges.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.16.14",

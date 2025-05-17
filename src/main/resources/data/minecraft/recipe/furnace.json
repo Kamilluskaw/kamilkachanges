@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:cobblestone"
+    },
+    "F": {
+      "item": "minecraft:campfire"
+    },
+    "A": {
+      "item": "minecraft:andesite"
+    },
+    "D": {
+      "item": "minecraft:diorite"
+    },
+    "C": {
+      "tag": "minecraft:coals"
+    }
+  },
+  "pattern": [
+    "D#D",
+    "#C#",
+    "AFA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:furnace"
+  }
+}

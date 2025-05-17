@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "minecraft:planks"
+    },
+    "L": {
+      "tag": "minecraft:logs"
+    },
+    "I": {
+      "item": "minecraft:item_frame"
+    },
+    "P": {
+      "tag": "minecraft:wooden_pressure_plates"
+    }
+  },
+  "pattern": [
+    "IP",
+    "L#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:crafting_table"
+  },
+  "show_notification": false
+}
