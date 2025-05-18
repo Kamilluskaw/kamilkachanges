@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "minecraft:copper_ore"
+    },
+    "X": {
+      "item": "minecraft:leather"
+    }
+  },
+  "pattern": [
+    "X X",
+    "CXC",
+    "CCC"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:leather_chestplate"
+  }
+}

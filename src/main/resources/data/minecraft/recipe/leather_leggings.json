@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "minecraft:copper_ore"
+    },
+    "X": {
+      "item": "minecraft:leather"
+    }
+  },
+  "pattern": [
+    "CCC",
+    "X X",
+    "C C"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:leather_leggings"
+  }
+}

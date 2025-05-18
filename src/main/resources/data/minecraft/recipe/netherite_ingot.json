@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "netherite_ingot",
+  "key": {
+    "W": {
+      "item": "minecraft:wither_skull"
+    },
+    "S": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "M": {
+      "item": "minecraft:glistering_melon_slice"
+    },
+    "N": {
+      "item": "minecraft:nether_brick"
+    },
+    "T": {
+      "item": "minecraft:ghast_tear"
+    },
+    "Q": {
+      "item": "minecraft:nether_quartz"
+    }
+  },
+  "pattern": [
+    "QST",
+    "GWG",
+    "NSM"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_ingot"
+  }
+}
