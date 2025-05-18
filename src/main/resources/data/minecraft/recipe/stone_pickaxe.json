@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "B": {
+      "tag": "minecraft:stone_buttons"
+    },
+    "X": {
+      "tag": "minecraft:stone_tool_materials"
+    }
+  },
+  "pattern": [
+    "BCB",
+    "X#X",
+    " # "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_pickaxe"
+  }
+}

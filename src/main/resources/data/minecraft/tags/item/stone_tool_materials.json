@@ -3,9 +3,9 @@
   "values": [
     "minecraft:stone",
     "minecraft:blackstone",
-    "minecraft:polished.andesite",
-    "minecraft:polished.diorite",
-    "minecraft:polished.granite",
+    "minecraft:polished_andesite",
+    "minecraft:polished_diorite",
+    "minecraft:polished_granite",
     "minecraft:deepslate"
   ]
 }
