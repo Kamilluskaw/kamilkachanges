@@ -8,12 +8,18 @@
     "A": {
       "item": "minecraft:amethyst_shard"
     },
+    "L": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
     "X": {
       "item": "minecraft:diamond"
     }
   },
   "pattern": [
-    "XAX",
+    "LAR",
     "X#X",
     " # "
   ],

@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "kamilkachanges",
-	"version": "${version}",
+	"version": "0.0.3",
 	"name": "Kamilka's Changes",
 	"description": "Silly changes to Minecraft :3",
 	"authors": [
