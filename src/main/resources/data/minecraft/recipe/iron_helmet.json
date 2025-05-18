@@ -3,7 +3,7 @@
   "category": "equipment",
   "key": {
     "Q": {
-      "item": "minecraft:nether_quartz"
+      "item": "minecraft:quartz"
     },
     "X": {
       "item": "minecraft:iron_ingot"

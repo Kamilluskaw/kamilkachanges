@@ -4,7 +4,7 @@
   "group": "netherite_ingot",
   "key": {
     "W": {
-      "item": "minecraft:wither_skull"
+      "item": "minecraft:wither_skeleton_skull"
     },
     "S": {
       "item": "minecraft:netherite_scrap"
@@ -22,7 +22,7 @@
       "item": "minecraft:ghast_tear"
     },
     "Q": {
-      "item": "minecraft:nether_quartz"
+      "item": "minecraft:quartz"
     }
   },
   "pattern": [

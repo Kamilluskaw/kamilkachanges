@@ -3,7 +3,7 @@
   "category": "equipment",
   "key": {
     "C": {
-      "item": "minecraft:copper_ore"
+      "item": "minecraft:raw_copper"
     },
     "X": {
       "item": "minecraft:leather"
