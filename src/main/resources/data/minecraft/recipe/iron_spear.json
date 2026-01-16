@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "minecraft:bone",
+    "X": "#minecraft:iron_tool_materials",
+    "Y": "#minecraft:copper_tool_materials"
+  },
+  "pattern": [
+    "  #",
+    " X ",
+    "Y  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_spear"
+  }
+}
