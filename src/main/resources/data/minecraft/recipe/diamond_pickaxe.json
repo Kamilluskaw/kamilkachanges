@@ -14,13 +14,16 @@
     "R": {
       "item": "minecraft:redstone"
     },
+    "C": {
+      "item": "minecraft:golden_pickaxe"
+    },
     "X": {
       "item": "minecraft:diamond"
     }
   },
   "pattern": [
     "LAR",
-    "X#X",
+    "XCX",
     " # "
   ],
   "result": {

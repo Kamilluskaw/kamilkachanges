@@ -11,13 +11,16 @@
     "B": {
       "tag": "minecraft:stone_buttons"
     },
+    "A": {
+      "tag":"minecraft:wooden_pickaxe"
+    },
     "X": {
       "tag": "minecraft:stone_tool_materials"
     }
   },
   "pattern": [
     "BCB",
-    "X#X",
+    "XAX",
     " # "
   ],
   "result": {

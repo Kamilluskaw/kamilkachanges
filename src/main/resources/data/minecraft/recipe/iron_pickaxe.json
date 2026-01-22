@@ -11,13 +11,16 @@
     "C": {
       "item": "minecraft:clay_ball"
     },
+    "P": {
+      "item": "minecraft:copper_pickaxe"
+    },
     "X": {
       "item": "minecraft:iron_ingot"
     }
   },
   "pattern": [
     "CNC",
-    "X#X",
+    "XPX",
     " # "
   ],
   "result": {

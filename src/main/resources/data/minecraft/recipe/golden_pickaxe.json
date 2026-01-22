@@ -11,13 +11,16 @@
     "G": {
       "item": "minecraft:glowstone_dust"
     },
+    "I": {
+      "item": "minecraft:iron_pickaxe"
+    },
     "X": {
       "item": "minecraft:gold_ingot"
     }
   },
   "pattern": [
     "G#G",
-    "XCX",
+    "XIX",
     " C "
   ],
   "result": {

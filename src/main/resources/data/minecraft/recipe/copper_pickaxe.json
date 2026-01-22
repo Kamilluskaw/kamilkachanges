@@ -3,11 +3,14 @@
   "category": "equipment",
   "key": {
     "#": "minecraft:stick",
-    "X": "#minecraft:copper_tool_materials"
+    "X": "#minecraft:copper_ingot",
+    "Z": "#minecraft:copper_nugget",
+    "H": "#minecraft:stone_pickaxe"
+
   },
   "pattern": [
     "XXX",
-    " # ",
+    "ZHZ",
     " # "
   ],
   "result": {

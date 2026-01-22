@@ -18,6 +18,7 @@
     "minecraft:copper_nautilus_armor"
   ],
   "result": {
-    "id": "minecraft:copper_nugget"
+    "count":1,
+    "id": "minecraft:copper_ingot"
   }
 }
